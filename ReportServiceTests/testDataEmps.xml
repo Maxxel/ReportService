@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employee>
+  <emps>
+    <name>Фамилия 1</name>
+    <inn>445</inn>
+    <departmentid>65</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 2</name>
+    <inn>446</inn>
+    <departmentid>65</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 3</name>
+    <inn>447</inn>
+    <departmentid>65</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 4</name>
+    <inn>448</inn>
+    <departmentid>65</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 5</name>
+    <inn>449</inn>
+    <departmentid>65</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 6</name>
+    <inn>450</inn>
+    <departmentid>79</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 7</name>
+    <inn>451</inn>
+    <departmentid>79</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 8</name>
+    <inn>452</inn>
+    <departmentid>79</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 9</name>
+    <inn>453</inn>
+    <departmentid>79</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 10</name>
+    <inn>454</inn>
+    <departmentid>79</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 11</name>
+    <inn>455</inn>
+    <departmentid>79</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 12</name>
+    <inn>456</inn>
+    <departmentid>36</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 13</name>
+    <inn>457</inn>
+    <departmentid>36</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 14</name>
+    <inn>458</inn>
+    <departmentid>36</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 15</name>
+    <inn>459</inn>
+    <departmentid>36</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 16</name>
+    <inn>460</inn>
+    <departmentid>36</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 17</name>
+    <inn>1254</inn>
+    <departmentid>21</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 18</name>
+    <inn>5496</inn>
+    <departmentid>648</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 19</name>
+    <inn>4586</inn>
+    <departmentid>4</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 20</name>
+    <inn>3699</inn>
+    <departmentid>21</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 21</name>
+    <inn>4458</inn>
+    <departmentid>648</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 22</name>    
+    <inn>3699</inn>
+    <departmentid>21</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 23</name>
+    <inn>3247</inn>
+    <departmentid>4</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 24</name>
+    <inn>7854</inn>
+    <departmentid>54</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 25</name>
+    <inn>999</inn>
+    <departmentid>21</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 26</name>
+    <inn>9875</inn>
+    <departmentid>21</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 27</name>
+    <inn>1234</inn>
+    <departmentid>4</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 28</name>
+    <inn>3211</inn>
+    <departmentid>4</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 29</name>
+    <inn>6545</inn>
+    <departmentid>4</departmentid>
+  </emps>
+  <emps>
+    <name>Фамилия 30</name>
+    <inn>6546</inn>
+    <departmentid>4</departmentid>
+  </emps>
+
+  
+  <deps>
+    <name>IT отдел</name>
+    <id>4</id>
+    <active>true</active>    
+  </deps>
+  <deps>
+    <name>Фин. отдел</name>
+    <id>21</id>
+    <active>true</active>
+  </deps>
+  <deps>
+    <name>Охрана</name>
+    <id>648</id>
+    <active>true</active>
+  </deps>
+  <deps>
+    <name>Юристы</name>
+    <id>54</id>
+    <active>false</active>
+  </deps>
+  <deps>
+    <name>Пустой отдел</name>
+    <id>33</id>
+    <active>true</active>
+  </deps>
+  <deps>
+    <name>Экономисты</name>
+    <id>65</id>
+    <active>true</active>
+  </deps>
+  <deps>
+    <name>Бухгалтерия</name>
+    <id>79</id>
+    <active>true</active>
+  </deps>
+  <deps>
+    <name>Маркетинг</name>
+    <id>36</id>
+    <active>true</active>
+  </deps>
+</Employee>
